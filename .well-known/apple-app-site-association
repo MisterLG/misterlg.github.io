@@ -1,0 +1,8 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["HL47GADX5Q.com.lukasgatzen.ShowUp"],
+            "components": [{ "/": "/showup-legal/join*" }]
+        }]
+    }
+}
